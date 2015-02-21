@@ -13,24 +13,32 @@ void prim(int start);
 int scr=0;
 int main(void)
 {
-    int cnt, i, z=1;
+    int cnt, i, z;
+ //   scanf("%d %d\n", &max, &cnt);
     max=1, cnt=3;
     int x, y;
+    map[2][1]=1;
+    map[1][1]=1;
+    map[1][2]=1;
+    /*
     for(i=0;i<cnt;i++)
     {
         if(i==cnt-1)
         {
-            scanf("%d %d", &x, &y);
+            scanf("%d %d %d", &x, &y, &z);
             map[x-1][y-1]=z;
             map[y-1][x-1]=z;
         }
         else
         {
-            scanf( "%d %d\n", &x, &y);
+            scanf( "%d %d %d\n", &x, &y, &z);
+            x=(int)x-64;
+            y=(int)y-64;
             map[x-1][y-1]=z;
             map[y-1][x-1]=z;
         }
     }
+     */
     for(i=0;i<cnt;i++)
     {
         for(int j=0;j<cnt;j++)
@@ -40,7 +48,10 @@ int main(void)
     }
     prim(0);
     for(i=0;i<max-1;i++)
+    {
+        // printf("%d %d\n", edge[i].n1+1, edge[i].n2+1);
         scr=scr+map[edge[i].n1][edge[i].n2];
+    }
     printf("%d\n", scr);
 }
 
@@ -94,16 +105,4 @@ int isVertex(int vertex[], int a)
  B C 3
  C D 5
  
- 7 10
- 1 2 2
- 1 5 5
- 2 5 6 
- 1 6 9
- 5 7 2
- 6 7 1
- 7 4 4
- 5 4 7
- 2 3 3
- 3 4 5
- (17)
  */
