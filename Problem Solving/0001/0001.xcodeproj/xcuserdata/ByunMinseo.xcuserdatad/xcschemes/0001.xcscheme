@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "12BC84091B08DFC000A94CB7"
-               BuildableName = "HayExpenses"
-               BlueprintName = "HayExpenses"
-               ReferencedContainer = "container:HayExpenses.xcodeproj">
+               BlueprintIdentifier = "1296C5FC1B22B3EF0014C5A8"
+               BuildableName = "0001"
+               BlueprintName = "0001"
+               ReferencedContainer = "container:0001.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "12BC84091B08DFC000A94CB7"
-            BuildableName = "HayExpenses"
-            BlueprintName = "HayExpenses"
-            ReferencedContainer = "container:HayExpenses.xcodeproj">
+            BlueprintIdentifier = "1296C5FC1B22B3EF0014C5A8"
+            BuildableName = "0001"
+            BlueprintName = "0001"
+            ReferencedContainer = "container:0001.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "12BC84091B08DFC000A94CB7"
-            BuildableName = "HayExpenses"
-            BlueprintName = "HayExpenses"
-            ReferencedContainer = "container:HayExpenses.xcodeproj">
+            BlueprintIdentifier = "1296C5FC1B22B3EF0014C5A8"
+            BuildableName = "0001"
+            BlueprintName = "0001"
+            ReferencedContainer = "container:0001.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "12BC84091B08DFC000A94CB7"
-            BuildableName = "HayExpenses"
-            BlueprintName = "HayExpenses"
-            ReferencedContainer = "container:HayExpenses.xcodeproj">
+            BlueprintIdentifier = "1296C5FC1B22B3EF0014C5A8"
+            BuildableName = "0001"
+            BlueprintName = "0001"
+            ReferencedContainer = "container:0001.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

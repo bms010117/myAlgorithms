@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "12BC84091B08DFC000A94CB7"
-               BuildableName = "HayExpenses"
-               BlueprintName = "HayExpenses"
-               ReferencedContainer = "container:HayExpenses.xcodeproj">
+               BlueprintIdentifier = "1200ACED1B2492DA0028E91F"
+               BuildableName = "algostudy"
+               BlueprintName = "algostudy"
+               ReferencedContainer = "container:algostudy.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "12BC84091B08DFC000A94CB7"
-            BuildableName = "HayExpenses"
-            BlueprintName = "HayExpenses"
-            ReferencedContainer = "container:HayExpenses.xcodeproj">
+            BlueprintIdentifier = "1200ACED1B2492DA0028E91F"
+            BuildableName = "algostudy"
+            BlueprintName = "algostudy"
+            ReferencedContainer = "container:algostudy.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "12BC84091B08DFC000A94CB7"
-            BuildableName = "HayExpenses"
-            BlueprintName = "HayExpenses"
-            ReferencedContainer = "container:HayExpenses.xcodeproj">
+            BlueprintIdentifier = "1200ACED1B2492DA0028E91F"
+            BuildableName = "algostudy"
+            BlueprintName = "algostudy"
+            ReferencedContainer = "container:algostudy.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "12BC84091B08DFC000A94CB7"
-            BuildableName = "HayExpenses"
-            BlueprintName = "HayExpenses"
-            ReferencedContainer = "container:HayExpenses.xcodeproj">
+            BlueprintIdentifier = "1200ACED1B2492DA0028E91F"
+            BuildableName = "algostudy"
+            BlueprintName = "algostudy"
+            ReferencedContainer = "container:algostudy.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

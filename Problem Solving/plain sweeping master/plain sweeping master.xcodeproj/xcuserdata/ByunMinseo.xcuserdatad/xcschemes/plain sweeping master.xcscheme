@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "12BC84091B08DFC000A94CB7"
-               BuildableName = "HayExpenses"
-               BlueprintName = "HayExpenses"
-               ReferencedContainer = "container:HayExpenses.xcodeproj">
+               BlueprintIdentifier = "120D632C1B0B69E7003003F6"
+               BuildableName = "plain sweeping master"
+               BlueprintName = "plain sweeping master"
+               ReferencedContainer = "container:plain sweeping master.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "12BC84091B08DFC000A94CB7"
-            BuildableName = "HayExpenses"
-            BlueprintName = "HayExpenses"
-            ReferencedContainer = "container:HayExpenses.xcodeproj">
+            BlueprintIdentifier = "120D632C1B0B69E7003003F6"
+            BuildableName = "plain sweeping master"
+            BlueprintName = "plain sweeping master"
+            ReferencedContainer = "container:plain sweeping master.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "12BC84091B08DFC000A94CB7"
-            BuildableName = "HayExpenses"
-            BlueprintName = "HayExpenses"
-            ReferencedContainer = "container:HayExpenses.xcodeproj">
+            BlueprintIdentifier = "120D632C1B0B69E7003003F6"
+            BuildableName = "plain sweeping master"
+            BlueprintName = "plain sweeping master"
+            ReferencedContainer = "container:plain sweeping master.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "12BC84091B08DFC000A94CB7"
-            BuildableName = "HayExpenses"
-            BlueprintName = "HayExpenses"
-            ReferencedContainer = "container:HayExpenses.xcodeproj">
+            BlueprintIdentifier = "120D632C1B0B69E7003003F6"
+            BuildableName = "plain sweeping master"
+            BlueprintName = "plain sweeping master"
+            ReferencedContainer = "container:plain sweeping master.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

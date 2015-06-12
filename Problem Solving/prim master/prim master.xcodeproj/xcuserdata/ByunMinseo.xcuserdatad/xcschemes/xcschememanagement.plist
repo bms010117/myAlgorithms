@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>HayExpenses.xcscheme</key>
+		<key>prim master.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>12BC84091B08DFC000A94CB7</key>
+		<key>121326CE1B0F7C60001C70C1</key>
 		<dict>
 			<key>primary</key>
 			<true/>
